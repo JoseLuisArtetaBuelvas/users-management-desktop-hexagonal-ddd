@@ -1,5 +1,7 @@
 package com.jcaa.usersmanagement.domain.valueobject;
 
+
+
 import com.jcaa.usersmanagement.domain.exception.InvalidSucursalNumberException;
 
 import java.util.Objects;
